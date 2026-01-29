@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+target/
+out/
+
+# Python
+__pycache__/
+*.pyc
